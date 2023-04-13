@@ -6,7 +6,7 @@ For example; suppose we have string hitesh in this word h repeated 2 times, it i
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	char str[50], ch;
+	char str[50], ch; 
 	int i, count=0;
 	
 	cout<<"Enter String : ";
